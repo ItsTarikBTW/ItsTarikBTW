@@ -5,8 +5,8 @@ Full-stack Developer
 --------------------
 
 * 🌍  I'm based in Ghazaouet -Algeria
-* ✉️  You can contact me at [tarik.hammoumi@outlook.com](mailto:tarik.hammoumi@outlook.com)
-* 🌐  Or see my website at [itstarik.tech](https://itstarik.tech)
+* ✉️  You can contact me at [contact@itstarik.com](mailto:contact@itstarik.com)
+* 🌐  Or see my website at [itstarik.com](https://itstarik.com)
 
 ### Skills
 
